@@ -31,7 +31,7 @@
           <a class="nav-link" href="/dashboard" style="color: white"">About Us</a>
         </li>
         <li>
-        		<a class="navbar-brand" href="/dashboard" style= "font-size: 2.5em; color: DarkOrange; margin-right:">SneakaByte</a>
+        		<a class="navbar-brand" href="/dashboard" style= "font-size: 2.5em; color: DarkOrange; margin-left: 425px">SneakaByte</a>
         	</li>
       </ul>
       <c:if test = "${userId == null}">
